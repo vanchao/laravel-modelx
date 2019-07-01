@@ -1,0 +1,11 @@
+<?php
+
+namespace {{namespace}};
+
+use Illuminate\Database\Eloquent\Model;
+
+{{modelPhpDoc}}
+class {{class}} extends Model  {
+
+    {{table}}
+}
