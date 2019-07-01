@@ -6,13 +6,15 @@ Just download zip file then unzip to your laravel project root directory
 Type the command line in your terminal:
 <code>php artisan list</code>
 If you see make:modelx
-Contratulations! Installation complete!
+```
++ Contratulations! Installation complete!  in green
+```
 
 
 <h1>Usage</h1>
 In your laravel project root directory, type the command line in your terminal console:<br>
 <code>php artisan make:modelx ModelName --table=table-name</code><br>
-<h4>Note:</h4> If your database.php has set <b>"prefix"</b>.Your table name shoul not be had this prefix.For examle: you have a table named <code>pre_tbName</code>. If you set <b>"prefix" => "pre_"</b> Just type tbName. Else, type full name of your tablename(pre-tbName for the example).
+<h4>Note:</h4> If your database.php has set <b>"prefix"</b>.Your table name shoul not be had this prefix.For examle: you have a table named <code>pre_tbName</code>. If you set <b>"prefix" => "pre_"</b>,just type <b>tbName</b>. Else, type full name of your tablename(<b>pre_tbName</b> for the example).
 
 <h1>Q&A</h1>
 When you use it. You would be encounter this problem:
