@@ -6,9 +6,11 @@ Just download zip file then unzip to your laravel project root directory
 Type the command line in your terminal:
 <code>php artisan list</code>
 If you see make:modelx
+```diff
++ Contratulations! Installation complete!
 ```
-+ Contratulations! Installation complete!  in green
-```
+- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+
 
 
 <h1>Usage</h1>
