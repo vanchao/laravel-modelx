@@ -2,7 +2,7 @@
 An artisan console command line that generate model class file with PHPDOC for phpstorm auto prompt <br>
 
 <h1>Installation</h1>
-Just download zip file then unzip to your laravel project root directory
+Just download zip file then unzip it to your laravel project root directory
 Type the command line in your terminal:
 <code>php artisan list</code>
 If you see make:modelx
