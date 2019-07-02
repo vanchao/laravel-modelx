@@ -6,11 +6,7 @@ Just download zip file then unzip to your laravel project root directory
 Type the command line in your terminal:
 <code>php artisan list</code>
 If you see make:modelx
-```diff
-+ Contratulations! Installation complete!
-```
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-
+Contratulations! Installation complete!
 
 
 <h1>Usage</h1>
@@ -20,7 +16,7 @@ In your laravel project root directory, type the command line in your terminal c
 
 <h1>Q&A</h1>
 When you use it. You would be encounter this problem:
-<span style="color:green">Class 'Doctrine\\DBAL\\Driver\\PDOMySql\\Driver' not found</span>
+<span style="color:#005cd0;">Class 'Doctrine\\DBAL\\Driver\\PDOMySql\\Driver' not found</span>
 Just follow this <a href="https://stackoverflow.com/questions/33817983/artisan-migration-error-class-doctrine-dbal-driver-pdomysql-driver-not-fo">link</a> to resolve the problem.
 <code>composer require doctrine/dbal</code>
 
