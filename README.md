@@ -8,7 +8,6 @@ Type the command line in your terminal:
 If you see make:modelx
 Contratulations! Installation complete!
 
-
 <h1>Usage</h1>
 In your laravel project root directory, type the command line in your terminal console:<br>
 <code>php artisan make:modelx ModelName --table=table-name</code><br>
