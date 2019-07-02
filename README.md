@@ -18,5 +18,5 @@ In your laravel project root directory, type the command line in your terminal c
 When you use it. You would be encounter this problem:<br>
 <code>Class 'Doctrine\\DBAL\\Driver\\PDOMySql\\Driver' not found</code><br>
 Just follow this <a href="https://stackoverflow.com/questions/33817983/artisan-migration-error-class-doctrine-dbal-driver-pdomysql-driver-not-fo">link</a> to resolve the problem.
-<code>composer require doctrine/dbal</code>
-
+<code>composer require doctrine/dbal</code><br>
+Code was tested in laravel 5.5, 5.6, 5.7, 5.8 version.
