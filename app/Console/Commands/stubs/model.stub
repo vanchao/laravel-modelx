@@ -8,5 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class {{class}} extends Model  {
 
     {{table}}
+    //disabled auto add created_at and updated_at insert into table
     public $timestamps = false;
 }
