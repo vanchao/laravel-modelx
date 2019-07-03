@@ -5,7 +5,7 @@ An artisan console command line that generate model class file with PHPDOC for p
 Just download zip file then unzip it to your laravel project root directory.<br>
 Type the command line in your terminal:<code>php artisan list</code><br>
 If you see terminal output list has <code>make:modelx</code><br>
-Contratulations! Installation complete!
+Congratulations! Installation complete!
 
 <h1>Usage</h1>
 In your laravel project root directory, type the command line in your terminal console:<br>
